@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/": true,
+        "/framework/vanilla": true
+    }
+}
